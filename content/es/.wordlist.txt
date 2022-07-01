@@ -188,6 +188,7 @@ fundamentals
 Garcia
 gateway
 GCP
+git
 Git
 GitHub
 GitOps
