@@ -222,7 +222,7 @@ Business
 BVS
 BY
 calendar
-canary
+Canary
 CAPEX
 Carol
 category
