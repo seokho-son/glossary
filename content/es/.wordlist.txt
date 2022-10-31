@@ -171,6 +171,7 @@ Foster
 foundation
 framework
 frontend
+fundamentals
 Garcia
 gateway
 GCP
