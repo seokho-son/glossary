@@ -5,6 +5,7 @@ Aniszczyk
 Anyul
 API
 APIs
+App
 application
 Appreciated
 architecture
@@ -162,6 +163,7 @@ DigitalOcean
 directly
 ej
 Emiliano
+Engine
 entregables
 escalarse
 escaneos
@@ -174,6 +176,7 @@ Finance
 first
 Foster
 foundation
+Foundry
 framework
 frontend
 fundamentals
@@ -188,6 +191,7 @@ Gmail
 good
 Google
 help
+Heroku
 hide
 hipervisor
 HTTP
@@ -243,7 +247,9 @@ of
 on
 on-premises
 Open
+PaaS
 Paganini
+platform
 portable
 pr
 prem
