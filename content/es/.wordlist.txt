@@ -214,6 +214,7 @@ Azure
 backend
 bare
 based
+Benavides
 blob
 blue
 branch
@@ -229,7 +230,6 @@ category
 Catherine
 CC
 CD
-Chaves
 Chris
 CI
 Cloud
