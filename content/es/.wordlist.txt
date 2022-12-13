@@ -208,6 +208,7 @@ application
 architecture
 autocura
 autoescalado
+autoescalamiento
 autorreparables
 AWS
 Azure
@@ -231,6 +232,7 @@ category
 Catherine
 CC
 CD
+Chaos
 Chris
 CI
 cifrada
