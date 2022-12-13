@@ -233,6 +233,7 @@ CC
 CD
 Chris
 CI
+cifrada
 Cloud
 clúster
 clústeres
