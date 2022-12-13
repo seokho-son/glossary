@@ -132,6 +132,7 @@ CC
 CD
 Chris
 CI
+cifrada
 Cloud
 clúster
 clústeres
@@ -215,6 +216,7 @@ Katelin
 Kubernetes
 Language
 laptop
+Layer
 localizations
 loop
 main
@@ -273,12 +275,15 @@ resiliencia
 Rodolfo
 Runtime
 scripts
+Secure
 security
 Seokho
 service
 Slack
 sobreescriba
+Sockets
 Spanish
+SSL
 stack
 Started
 status
