@@ -423,6 +423,7 @@ videos
 virtuales
 virtualización
 virtualizados
+VM
 vs
 weight
 wifi
