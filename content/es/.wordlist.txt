@@ -263,11 +263,13 @@ Datadog
 declarativamente
 Deployment
 deployments
+Deprecated
 development
 DevOps
 DevSecOps
 DigitalOcean
 directly
+draft
 ej
 Engine
 Engineering
