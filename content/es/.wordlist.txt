@@ -7,6 +7,7 @@ APIs
 App
 application
 Appreciated
+approver
 architecture
 Arnes
 Azure
@@ -215,6 +216,7 @@ Azure
 backend
 bare
 based
+becoming
 Benavides
 blob
 blue
@@ -327,6 +329,7 @@ Layer
 localizations
 loop
 main
+maintainer
 markdown
 Martinez
 md
