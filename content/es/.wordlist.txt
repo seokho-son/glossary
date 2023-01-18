@@ -243,6 +243,7 @@ clúster
 clústeres
 CNCF
 Code
+com
 commit
 Committee
 community
@@ -261,6 +262,7 @@ CRI
 Daniel
 Datadog
 declarativamente
+DEFINITION
 Deployment
 deployments
 Deprecated
@@ -273,6 +275,7 @@ draft
 ej
 Engine
 Engineering
+English
 entregables
 escalarse
 escaneos
@@ -315,6 +318,7 @@ infrastructure
 Initiative
 inmutable
 interface
+io
 issue
 issues
 Jason
@@ -371,6 +375,7 @@ portable
 pr
 prem
 premises
+Preview
 proactiva
 profesionistas
 properties
@@ -417,6 +422,7 @@ term
 terms
 the
 title
+to
 toc
 transmisión
 triaging
