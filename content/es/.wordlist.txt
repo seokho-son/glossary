@@ -238,6 +238,7 @@ Chaos
 Chris
 CI
 cifrada
+Client
 Cloud
 clúster
 clústeres
@@ -259,6 +260,7 @@ content
 create
 creating
 CRI
+CRM
 Daniel
 Datadog
 declarativamente
@@ -271,7 +273,9 @@ DevOps
 DevSecOps
 DigitalOcean
 directly
+Docs
 draft
+Dropbox
 ej
 Engine
 Engineering
@@ -334,6 +338,7 @@ laptop
 Layer
 localizations
 loop
+Mail
 main
 maintainer
 markdown
@@ -353,6 +358,8 @@ monitorear
 monitoreará
 monitoreo
 Morgan
+multitenancy
+multitenant
 NASDAQ
 Native
 needed
@@ -363,6 +370,7 @@ Nicolas
 Not
 OCI
 of
+Office
 on
 on-premises
 Open
@@ -395,10 +403,13 @@ requests
 resiliencia
 Rodolfo
 Runtime
+SaaS
+Salesforce
 scripts
 Secure
 security
 Seokho
+Server
 service
 Slack
 sobreescriba
